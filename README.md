@@ -1,4 +1,5 @@
-# Hi, I'm Pranav Kumar Jha 👋
+Hi, I'm Pranav Kumar Jha 👋
+Aspiring Software Engineer | Full-Stack Developer | Open-Source Enthusiast
 
 Computer Science Engineering student passionate about software engineering, full-stack development, and building modern web applications that solve real-world problems.
 
@@ -11,22 +12,14 @@ Computer Science Engineering student passionate about software engineering, full
 
 ## Tech Stack
 
-### Programming Languages
-- C++
-- Python
-- JavaScript
+Programming Languages
+C++ • Python • JavaScript
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- React.js
+Web Development
+HTML • CSS • JavaScript • React.js
 
-### Tools & Technologies
-- Git
-- GitHub
-- REST APIs
-- Version Control & Collaborative Development
+Tools & Technologies
+Git • GitHub • REST APIs • Version Control
 
 ## Current Focus
 - Building modern web applications
@@ -35,7 +28,7 @@ Computer Science Engineering student passionate about software engineering, full
 - Exploring scalable system design and cloud technologies
 
 ## Projects
-You can explore my repositories below where I have built real-world web applications and experimented with modern development practices.
+You can explore my repositories below where I have built real-world web applications including AI tools, smart systems, and full-stack projects.
 
 ## Connect With Me
 LinkedIn  
