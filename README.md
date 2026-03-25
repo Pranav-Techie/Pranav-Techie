@@ -1,5 +1,5 @@
 Hi, I'm Pranav Kumar Jha 👋
-Aspiring Software Engineer | Full-Stack Developer | Open-Source Enthusiast
+Software Engineer | Full-Stack Developer | Open-Source Enthusiast
 
 Computer Science Engineering student passionate about software engineering, full-stack development, and building modern web applications that solve real-world problems.
 
